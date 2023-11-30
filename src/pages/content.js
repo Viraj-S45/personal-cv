@@ -1,6 +1,6 @@
 // Personal Information --> #hero section
 export const name = "Viraj Shirodkar";
-export const designation = "Engineering Studen";
+export const designation = "Engineering Student";
 export const location = "Mumbai, India";
 export const pronouns = "he/him";
 export const website = "https://linuxcoder.netlify.app";
